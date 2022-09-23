@@ -49,7 +49,7 @@ global.psaweria = 'gada'
 global.nomorbot = '6285805468826'
 global.nomorown = '6285857537269'
 global.namebot = 'Gilzz Botz'
-global.nameown = 'Gilzz Hostit'
+global.nameown = 'Gilzz Hosting'
 
 /*============== APIKEY SIMPEL ==============*/
 global.zenzkey = 'b8040941f7'
